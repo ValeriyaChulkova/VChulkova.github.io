@@ -38,7 +38,7 @@ education:
   courses:
     - course: Output to Linux
       institution: Stepik
-      year: 2008
+      year: '2020'
     - course: "Python generation": a course for beginners
       institution: Stepik
       year: 2023
