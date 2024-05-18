@@ -8,23 +8,12 @@ summary: Hi👋! In this post I will show you my cute cat!
 # Date published
 date: '2023-12-13'
 
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
+![png](featured.png)
 
 authors:
   - admin
 
-## Overview
+
+This is the cutest cat, he always sleeps so funny✨. He is also very playful and does not let anyone attack anyone from around the corner. Despite this, he is also very obedient🚫💩.
 
 
