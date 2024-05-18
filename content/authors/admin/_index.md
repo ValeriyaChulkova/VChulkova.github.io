@@ -39,7 +39,7 @@ education:
     - course: Output to Linux
       institution: Stepik
       year: 2020
-    - course: "Python generation": a course for beginners
+    - course: Python generation: a course for beginners
       institution: Stepik
       year: 2023
     - course: Basics of cybersecurity
