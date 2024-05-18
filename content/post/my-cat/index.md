@@ -8,7 +8,7 @@ summary: Hi👋! In this post I will show you my cute cat!
 # Date published
 date: '2023-12-13'
 
-![png](featured.png)
+![jpg](featured.jpg)
 
 authors:
   - admin
