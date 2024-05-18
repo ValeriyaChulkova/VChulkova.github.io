@@ -1,5 +1,5 @@
 ---
-title: My cat
+title: My cat😍
 subtitle: He's such a sweetheart! Quickly open the post and watch!!!
 ---
 # Summary for listings and search engines
