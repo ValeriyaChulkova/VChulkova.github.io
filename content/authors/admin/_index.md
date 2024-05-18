@@ -81,9 +81,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ValeriyaChulkova
-  - icon: linkedin
+  - icon: telegram
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://t.me/Lulunya
 
 
 # Highlight the author in author lists? (true/false)
