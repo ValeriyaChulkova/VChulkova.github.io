@@ -15,9 +15,9 @@ links:
     name: Get course
     url: https://stepik.org/course/111512/syllabus
 url_code: ''
-url_pdf: ''
+url_pdf: https://github.com/ValeriyaChulkova/VChulkova.github.io/blob/main/content/project/example/Чулкова%20В.А.%20внешний%20курс%20(1).pdf
 url_slides: ''
-url_video: ''
+url_video: https://rutube.ru/video/82403add628eb532f86ef5140a767901/
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
