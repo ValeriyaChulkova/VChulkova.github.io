@@ -8,4 +8,4 @@ authors:
   - admin
   - Kate
 ---
-![png](featured.png)
+![png](featured.jpg)
