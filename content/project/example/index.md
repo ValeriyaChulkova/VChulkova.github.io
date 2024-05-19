@@ -2,7 +2,7 @@
 title: Steik course
 summary: An example of using the in-built project page.
 tags:
-  - Сourse Еraining
+  - Studying the course
 date: '2024-05-15T00:00:00Z'
 
 image:
