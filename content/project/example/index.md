@@ -12,7 +12,7 @@ image:
 links:
   - icon: stepic
     icon_pack: fab
-    name: Follow
+    name: Get course
     url: https://stepik.org/course/111512/syllabus
 url_code: ''
 url_pdf: ''
