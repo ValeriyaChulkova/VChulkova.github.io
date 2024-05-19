@@ -15,7 +15,7 @@ links:
     name: Get course
     url: https://stepik.org/course/111512/syllabus
 url_code: ''
-url_pdf: https://github.com/ValeriyaChulkova/VChulkova.github.io/blob/main/static/uploads/course.pdf
+url_pdf: https://github.com/ValeriyaChulkova/VChulkova.github.io/blob/main/content/project/example/stepik.pdf
 url_video: https://rutube.ru/video/82403add628eb532f86ef5140a767901/
 ---
 
