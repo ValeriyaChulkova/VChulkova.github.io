@@ -15,16 +15,8 @@ links:
     name: Get course
     url: https://stepik.org/course/111512/syllabus
 url_code: ''
-url_pdf: https://VChulkova.github.io/blob/main/content/project/example/course.pdf
-url_slides: ''
+url_pdf: https://github.com/ValeriyaChulkova/VChulkova.github.io/blob/main/content/project/example/course.pdf
 url_video: https://rutube.ru/video/82403add628eb532f86ef5140a767901/
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 The course "Fundamentals of Cybersecurity" is an excellent introductory material for those who want to gain basic knowledge in this important area. The lectures are well structured, the material is presented in an accessible form and accompanied by illustrative examples from real life.
